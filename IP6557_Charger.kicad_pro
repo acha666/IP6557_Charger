@@ -73,27 +73,15 @@
           ""
         ],
         [
-          "silk_over_copper|101847936|112490000|a52818ff-39d3-411b-81d1-fb5a40989ded|00000000-0000-0000-0000-000000000000",
+          "silk_over_copper|101847936|112490000|a481af8f-4db8-4eb5-928c-ceb0ce351d95|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "silk_over_copper|109667500|102927500|a4b3178a-8579-4ccc-80cb-7413cc577120|00000000-0000-0000-0000-000000000000",
+          "silk_over_copper|109667500|102927500|06032b10-80d8-4964-a9bb-b406f51d0739|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "silk_over_copper|109927500|102267500|deca1175-3c83-4eb5-b10a-041575c9db23|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "starved_thermal|106898950|102696374|2e9909bc-b9ec-4110-becb-a5ff53d8e38e|6b831270-939e-49be-9565-b782a028ea0c|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|107325000|112400000|2e9909bc-b9ec-4110-becb-a5ff53d8e38e|2ad628be-5dad-4a04-8973-7981f8cf187b|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|107325000|112400000|2e9909bc-b9ec-4110-becb-a5ff53d8e38e|2ad628be-5dad-4a04-8973-7981f8cf187b|F.Cu",
+          "silk_over_copper|109927500|102267500|251e4bd8-e04b-4e80-994c-b61993f86753|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
@@ -177,7 +165,7 @@
         "min_hole_to_hole": 0.2,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.75,
         "min_text_thickness": 0.08,

@@ -143,8 +143,19 @@
 		(layer "F.SilkS")
 		(uuid "b1ed20c4-20d3-4982-96cd-d090ae96aaed")
 	)
+	(fp_rect
+		(start -2.25 -12)
+		(end 5.775 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "6bd03932-ce7e-4446-9244-7e0f65867c13")
+	)
 	(fp_text user "${REFERENCE}"
-		(at 1.75 0 0)
+		(at 1.7625 -6 0)
 		(layer "F.Fab")
 		(uuid "2f011e69-5a60-4371-9c77-7777ea41ca22")
 		(effects

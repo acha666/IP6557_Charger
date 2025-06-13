@@ -94,9 +94,9 @@
             violations=$(echo $output | grep -oP 'Found \K[0-9]+(?= violations)')
             unconnected_items=$(echo $output | grep -oP 'Found \K[0-9]+(?= unconnected items)')
             schematic_issues=$(echo "$output" | grep -oP 'Found \K[0-9]+(?= schematic parity issues)')
-            echo "::info::Violations: $violations"
-            echo "::info::Unconnected Items: $unconnected_items"
-            echo "::info::Schematic Parity Issues: $schematic_issues"
+            echo "::info:: Violations: $violations"
+            echo "::info:: Unconnected Items: $unconnected_items"
+            echo "::info:: Schematic Parity Issues: $schematic_issues"
             if [ "$violations" -ne 0 ] || [ "$unconnected_items" -ne 0 ] || [ "$schematic_issues" -ne 0 ]; then
               echo "PROCEED=false" >> $GITHUB_OUTPUT
               echo "::error::Errors found in the DRC report, please check the report for more details."
