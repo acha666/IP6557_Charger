@@ -7829,7 +7829,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "CSD17581Q3A"
+		(property "Value" "NTTFS5C673NL"
 			(at 132.588 88.646 0)
 			(effects
 				(font
@@ -7849,7 +7849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd17581q3a.pdf"
+		(property "Datasheet" ""
 			(at 127 88.9 0)
 			(effects
 				(font
@@ -7859,7 +7859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "60A Id, 30V Vds, NexFET N-Channel Power MOSFET, 3.2mOhm Ron, Qg Typ 20nC, VSON-8 3.3x3.3mm"
+		(property "Description" ""
 			(at 132.08 85.09 0)
 			(effects
 				(font
@@ -8734,7 +8734,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "CSD17581Q3A"
+		(property "Value" "NTTFS5C673NL"
 			(at 132.588 73.406 0)
 			(effects
 				(font
@@ -8754,7 +8754,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd17581q3a.pdf"
+		(property "Datasheet" ""
 			(at 127 73.66 0)
 			(effects
 				(font
@@ -8764,7 +8764,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "60A Id, 30V Vds, NexFET N-Channel Power MOSFET, 3.2mOhm Ron, Qg Typ 20nC, VSON-8 3.3x3.3mm"
+		(property "Description" ""
 			(at 132.08 69.85 0)
 			(effects
 				(font
@@ -9850,7 +9850,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "CSD17581Q3A"
+		(property "Value" "NTTFS5C673NL"
 			(at 102.362 73.406 0)
 			(effects
 				(font
@@ -9870,7 +9870,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd17581q3a.pdf"
+		(property "Datasheet" ""
 			(at 107.95 73.66 0)
 			(effects
 				(font
@@ -9880,7 +9880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "60A Id, 30V Vds, NexFET N-Channel Power MOSFET, 3.2mOhm Ron, Qg Typ 20nC, VSON-8 3.3x3.3mm"
+		(property "Description" ""
 			(at 102.87 69.85 0)
 			(effects
 				(font
@@ -11754,7 +11754,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "CSD17581Q3A"
+		(property "Value" "NTTFS5C673NL"
 			(at 102.362 88.646 0)
 			(effects
 				(font
@@ -11774,7 +11774,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd17581q3a.pdf"
+		(property "Datasheet" ""
 			(at 107.95 88.9 0)
 			(effects
 				(font
@@ -11784,7 +11784,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "60A Id, 30V Vds, NexFET N-Channel Power MOSFET, 3.2mOhm Ron, Qg Typ 20nC, VSON-8 3.3x3.3mm"
+		(property "Description" ""
 			(at 102.87 85.09 0)
 			(effects
 				(font
